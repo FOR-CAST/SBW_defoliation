@@ -1,2 +1,1 @@
-# SBW_defoliation
-Spruce budworm defoliation module and LandR Biomass interface
+SBW_defoliation.md
